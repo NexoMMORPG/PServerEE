@@ -28,20 +28,20 @@ find . -name "*.log.*" -type f -print -exec rm -rf {} \;
 
 sleep 1
 
-cd /root/server_eden/TicketServer/
+cd /root/PServerEE/TicketServer/
 ./TicketServer -p 2067 &
 sleep 5
-cd /root/server_eden/GatewayServer/
+cd /root/PServerEE/GatewayServer/
 ./GatewayServer &
 sleep 5
-cd /root/server_eden/LoginServer/
+cd /root/PServerEE/LoginServer/
 ./LoginServer &
 sleep 5
-cd /root/server_eden/MissionServer/
+cd /root/PServerEE/MissionServer/
 ./MissionServer &
 sleep 5
-cd /root/server_eden/WorldServer/
+cd /root/PServerEE/WorldServer/
 ./WorldServer &
 sleep 5
-cd /root/server_eden/ZoneServer/
+cd /root/PServerEE/ZoneServer/
 ./ZoneServer &
