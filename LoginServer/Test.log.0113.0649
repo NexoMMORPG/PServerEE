@@ -1,0 +1,276 @@
+     1,2024/01/13 06:49:26,[EVENT] Connected to database[127.0.0.1].
+     2,2024/01/13 06:49:26,[EVENT] Get 2 world servers from DB.
+     3,2024/01/13 06:49:26,[EVENT] Load 1 records of AccountID from database.
+     4,2024/01/13 06:49:26,[EVENT] Load login_version: [1-6-7-VIP (Login)] from database done.
+     5,2024/01/13 06:49:26,[LoginServer.cc:72],Init Default NetCommand Table...
+     6,2024/01/13 06:49:27,RSA size(n) = 256 size(e) = 2
+     7,2024/01/13 06:49:27,RSA size(n) = 256 size(e) = 2
+     8,2024/01/13 06:49:27,Server is rolling on TCP 0.0.0.0:6543.
+     9,2024/01/13 06:49:27,Connect to 127.0.0.1<0x9CEE240:10>:2067.
+    10,2024/01/13 06:49:27,Connect to 127.0.0.1<0x9D00D50:11>:5560.
+    11,2024/01/13 06:49:27,[EVENT] LoginServer (with BillingGateway support) booting...
+    12,2024/01/13 06:49:27,[EVENT] EventUpdatePopulation constructed.
+    13,2024/01/13 06:49:27,Add New Epoll 9
+    14,2024/01/13 06:49:27,Add New Epoll 10
+    15,2024/01/13 06:49:27,Add New Epoll 11
+    16,2024/01/13 06:49:27,[EVENT] Update world: [1010] state: [0] ver: [Unknown_Version] successful.
+    17,2024/01/13 06:49:27,[EVENT] Update world: [1020] state: [0] ver: [Unknown_Version] successful.
+    18,2024/01/13 06:49:33,EVAL(5.959166 secs): {Network I/O}
+    19,2024/01/13 06:49:33,EVAL(6.004739 secs): {Main Loop}
+    20,2024/01/13 06:49:33,[EVENT] Update population of 2 servers.
+    21,2024/01/13 06:49:39,EVAL(6.010359 secs): {Network I/O}
+    22,2024/01/13 06:49:39,EVAL(6.010969 secs): {Main Loop}
+    23,2024/01/13 06:49:39,[EVENT] Update population of 2 servers.
+    24,2024/01/13 06:49:41,EVAL(2.255295 secs): {Network I/O}
+    25,2024/01/13 06:49:41,EVAL(2.255831 secs): {Main Loop}
+    26,2024/01/13 06:49:41,[EVENT] Update world: [1010] state: [1] ver: [002.003.05.67] successful.
+    27,2024/01/13 06:49:41,[EVENT] Update world: [1020] state: [0] ver: [Unknown_Version] successful.
+    28,2024/01/13 06:49:45,EVAL(3.746400 secs): {Network I/O}
+    29,2024/01/13 06:49:45,EVAL(3.779810 secs): {Main Loop}
+    30,2024/01/13 06:49:45,[EVENT] Update population of 2 servers.
+    31,2024/01/13 06:49:51,EVAL(6.005034 secs): {Network I/O}
+    32,2024/01/13 06:49:51,EVAL(6.005539 secs): {Main Loop}
+    33,2024/01/13 06:49:51,[EVENT] Update population of 2 servers.
+    34,2024/01/13 06:49:57,EVAL(6.000525 secs): {Network I/O}
+    35,2024/01/13 06:49:57,EVAL(6.000977 secs): {Main Loop}
+    36,2024/01/13 06:49:57,[EVENT] Update population of 2 servers.
+    37,2024/01/13 06:50:03,EVAL(6.006549 secs): {Network I/O}
+    38,2024/01/13 06:50:03,EVAL(6.007066 secs): {Main Loop}
+    39,2024/01/13 06:50:03,[EVENT] Update population of 2 servers.
+    40,2024/01/13 06:50:09,EVAL(6.006395 secs): {Network I/O}
+    41,2024/01/13 06:50:09,EVAL(6.006873 secs): {Main Loop}
+    42,2024/01/13 06:50:09,[EVENT] Update population of 2 servers.
+    43,2024/01/13 06:50:15,EVAL(6.006181 secs): {Network I/O}
+    44,2024/01/13 06:50:15,EVAL(6.006986 secs): {Main Loop}
+    45,2024/01/13 06:50:15,[EVENT] Update population of 2 servers.
+    46,2024/01/13 06:50:21,EVAL(6.004364 secs): {Network I/O}
+    47,2024/01/13 06:50:21,EVAL(6.004989 secs): {Main Loop}
+    48,2024/01/13 06:50:21,[EVENT] Update population of 2 servers.
+    49,2024/01/13 06:50:27,EVAL(6.006250 secs): {Network I/O}
+    50,2024/01/13 06:50:27,EVAL(6.007089 secs): {Main Loop}
+    51,2024/01/13 06:50:27,[EVENT] Update population of 2 servers.
+    52,2024/01/13 06:50:33,EVAL(6.006584 secs): {Network I/O}
+    53,2024/01/13 06:50:33,EVAL(6.007197 secs): {Main Loop}
+    54,2024/01/13 06:50:33,[EVENT] Update population of 2 servers.
+    55,2024/01/13 06:50:39,EVAL(6.004220 secs): {Network I/O}
+    56,2024/01/13 06:50:39,EVAL(6.005885 secs): {Main Loop}
+    57,2024/01/13 06:50:39,[EVENT] Update population of 2 servers.
+    58,2024/01/13 06:50:45,EVAL(6.006422 secs): {Network I/O}
+    59,2024/01/13 06:50:45,EVAL(6.007258 secs): {Main Loop}
+    60,2024/01/13 06:50:45,[EVENT] Update population of 2 servers.
+    61,2024/01/13 06:50:51,EVAL(6.006368 secs): {Network I/O}
+    62,2024/01/13 06:50:51,EVAL(6.007351 secs): {Main Loop}
+    63,2024/01/13 06:50:51,[EVENT] Update population of 2 servers.
+    64,2024/01/13 06:50:57,EVAL(6.005879 secs): {Network I/O}
+    65,2024/01/13 06:50:57,EVAL(6.006723 secs): {Main Loop}
+    66,2024/01/13 06:50:57,[EVENT] Update population of 2 servers.
+    67,2024/01/13 06:51:03,EVAL(6.003209 secs): {Network I/O}
+    68,2024/01/13 06:51:03,EVAL(6.004369 secs): {Main Loop}
+    69,2024/01/13 06:51:03,[EVENT] Update population of 2 servers.
+    70,2024/01/13 06:51:09,EVAL(6.006330 secs): {Network I/O}
+    71,2024/01/13 06:51:09,EVAL(6.006819 secs): {Main Loop}
+    72,2024/01/13 06:51:09,[EVENT] Update population of 2 servers.
+    73,2024/01/13 06:51:15,EVAL(6.007681 secs): {Network I/O}
+    74,2024/01/13 06:51:15,EVAL(6.008782 secs): {Main Loop}
+    75,2024/01/13 06:51:15,[EVENT] Update population of 2 servers.
+    76,2024/01/13 06:51:21,EVAL(6.004719 secs): {Network I/O}
+    77,2024/01/13 06:51:21,EVAL(6.005702 secs): {Main Loop}
+    78,2024/01/13 06:51:21,[EVENT] Update population of 2 servers.
+    79,2024/01/13 06:51:27,EVAL(6.006622 secs): {Network I/O}
+    80,2024/01/13 06:51:27,EVAL(6.007580 secs): {Main Loop}
+    81,2024/01/13 06:51:27,[EVENT] Update population of 2 servers.
+    82,2024/01/13 06:51:33,EVAL(6.001424 secs): {Network I/O}
+    83,2024/01/13 06:51:33,EVAL(6.002511 secs): {Main Loop}
+    84,2024/01/13 06:51:33,[EVENT] Update population of 2 servers.
+    85,2024/01/13 06:51:39,EVAL(6.006500 secs): {Network I/O}
+    86,2024/01/13 06:51:39,EVAL(6.007530 secs): {Main Loop}
+    87,2024/01/13 06:51:39,[EVENT] Update population of 2 servers.
+    88,2024/01/13 06:51:45,EVAL(6.006274 secs): {Network I/O}
+    89,2024/01/13 06:51:45,EVAL(6.007319 secs): {Main Loop}
+    90,2024/01/13 06:51:45,[EVENT] Update population of 2 servers.
+    91,2024/01/13 06:51:51,EVAL(6.006466 secs): {Network I/O}
+    92,2024/01/13 06:51:51,EVAL(6.007459 secs): {Main Loop}
+    93,2024/01/13 06:51:51,[EVENT] Update population of 2 servers.
+    94,2024/01/13 06:51:57,EVAL(6.006380 secs): {Network I/O}
+    95,2024/01/13 06:51:57,EVAL(6.007539 secs): {Main Loop}
+    96,2024/01/13 06:51:57,[EVENT] Update population of 2 servers.
+    97,2024/01/13 06:52:03,EVAL(6.004761 secs): {Network I/O}
+    98,2024/01/13 06:52:03,EVAL(6.005592 secs): {Main Loop}
+    99,2024/01/13 06:52:03,[EVENT] Update population of 2 servers.
+   100,2024/01/13 06:52:09,EVAL(6.004373 secs): {Network I/O}
+   101,2024/01/13 06:52:09,EVAL(6.005428 secs): {Main Loop}
+   102,2024/01/13 06:52:09,[EVENT] Update population of 2 servers.
+   103,2024/01/13 06:52:15,EVAL(6.007480 secs): {Network I/O}
+   104,2024/01/13 06:52:15,EVAL(6.008611 secs): {Main Loop}
+   105,2024/01/13 06:52:15,[EVENT] Update population of 2 servers.
+   106,2024/01/13 06:52:21,EVAL(6.006252 secs): {Network I/O}
+   107,2024/01/13 06:52:21,EVAL(6.007527 secs): {Main Loop}
+   108,2024/01/13 06:52:21,[EVENT] Update population of 2 servers.
+   109,2024/01/13 06:52:27,EVAL(6.006659 secs): {Network I/O}
+   110,2024/01/13 06:52:27,EVAL(6.007737 secs): {Main Loop}
+   111,2024/01/13 06:52:27,[EVENT] Update population of 2 servers.
+   112,2024/01/13 06:52:33,EVAL(6.006819 secs): {Network I/O}
+   113,2024/01/13 06:52:33,EVAL(6.007792 secs): {Main Loop}
+   114,2024/01/13 06:52:33,[EVENT] Update population of 2 servers.
+   115,2024/01/13 06:52:39,EVAL(6.004658 secs): {Network I/O}
+   116,2024/01/13 06:52:39,EVAL(6.005689 secs): {Main Loop}
+   117,2024/01/13 06:52:39,[EVENT] Update population of 2 servers.
+   118,2024/01/13 06:52:45,EVAL(6.006016 secs): {Network I/O}
+   119,2024/01/13 06:52:45,EVAL(6.006893 secs): {Main Loop}
+   120,2024/01/13 06:52:45,[EVENT] Update population of 2 servers.
+   121,2024/01/13 06:52:51,EVAL(6.004086 secs): {Network I/O}
+   122,2024/01/13 06:52:51,EVAL(6.005107 secs): {Main Loop}
+   123,2024/01/13 06:52:51,[EVENT] Update population of 2 servers.
+   124,2024/01/13 06:52:57,EVAL(6.002159 secs): {Network I/O}
+   125,2024/01/13 06:52:57,EVAL(6.003029 secs): {Main Loop}
+   126,2024/01/13 06:52:57,[EVENT] Update population of 2 servers.
+   127,2024/01/13 06:53:03,EVAL(6.006277 secs): {Network I/O}
+   128,2024/01/13 06:53:03,EVAL(6.007315 secs): {Main Loop}
+   129,2024/01/13 06:53:03,[EVENT] Update population of 2 servers.
+   130,2024/01/13 06:53:09,EVAL(6.004793 secs): {Network I/O}
+   131,2024/01/13 06:53:09,EVAL(6.006009 secs): {Main Loop}
+   132,2024/01/13 06:53:09,[EVENT] Update population of 2 servers.
+   133,2024/01/13 06:53:15,EVAL(6.006604 secs): {Network I/O}
+   134,2024/01/13 06:53:15,EVAL(6.007147 secs): {Main Loop}
+   135,2024/01/13 06:53:15,[EVENT] Update population of 2 servers.
+   136,2024/01/13 06:53:21,EVAL(6.007157 secs): {Network I/O}
+   137,2024/01/13 06:53:21,EVAL(6.008549 secs): {Main Loop}
+   138,2024/01/13 06:53:21,[EVENT] Update population of 2 servers.
+   139,2024/01/13 06:53:27,EVAL(6.005565 secs): {Network I/O}
+   140,2024/01/13 06:53:27,EVAL(6.006124 secs): {Main Loop}
+   141,2024/01/13 06:53:27,[EVENT] Update population of 2 servers.
+   142,2024/01/13 06:53:33,EVAL(6.006154 secs): {Network I/O}
+   143,2024/01/13 06:53:33,EVAL(6.006660 secs): {Main Loop}
+   144,2024/01/13 06:53:33,[EVENT] Update population of 2 servers.
+   145,2024/01/13 06:53:39,EVAL(6.000184 secs): {Network I/O}
+   146,2024/01/13 06:53:39,EVAL(6.000671 secs): {Main Loop}
+   147,2024/01/13 06:53:39,[EVENT] Update population of 2 servers.
+   148,2024/01/13 06:53:45,EVAL(6.006291 secs): {Network I/O}
+   149,2024/01/13 06:53:45,EVAL(6.007159 secs): {Main Loop}
+   150,2024/01/13 06:53:45,[EVENT] Update population of 2 servers.
+   151,2024/01/13 06:53:51,EVAL(6.002195 secs): {Network I/O}
+   152,2024/01/13 06:53:51,EVAL(6.003327 secs): {Main Loop}
+   153,2024/01/13 06:53:51,[EVENT] Update population of 2 servers.
+   154,2024/01/13 06:53:57,EVAL(6.007518 secs): {Network I/O}
+   155,2024/01/13 06:53:57,EVAL(6.008631 secs): {Main Loop}
+   156,2024/01/13 06:53:57,[EVENT] Update population of 2 servers.
+   157,2024/01/13 06:54:03,EVAL(6.006199 secs): {Network I/O}
+   158,2024/01/13 06:54:03,EVAL(6.007084 secs): {Main Loop}
+   159,2024/01/13 06:54:03,[EVENT] Update population of 2 servers.
+   160,2024/01/13 06:54:09,EVAL(6.005341 secs): {Network I/O}
+   161,2024/01/13 06:54:09,EVAL(6.006356 secs): {Main Loop}
+   162,2024/01/13 06:54:09,[EVENT] Update population of 2 servers.
+   163,2024/01/13 06:54:15,EVAL(6.002102 secs): {Network I/O}
+   164,2024/01/13 06:54:15,EVAL(6.002703 secs): {Main Loop}
+   165,2024/01/13 06:54:15,[EVENT] Update population of 2 servers.
+   166,2024/01/13 06:54:21,EVAL(6.005703 secs): {Network I/O}
+   167,2024/01/13 06:54:21,EVAL(6.006685 secs): {Main Loop}
+   168,2024/01/13 06:54:21,[EVENT] Update population of 2 servers.
+   169,2024/01/13 06:54:27,EVAL(6.010947 secs): {Network I/O}
+   170,2024/01/13 06:54:27,EVAL(6.011394 secs): {Main Loop}
+   171,2024/01/13 06:54:27,[EVENT] Update population of 2 servers.
+   172,2024/01/13 06:54:33,EVAL(6.006274 secs): {Network I/O}
+   173,2024/01/13 06:54:33,EVAL(6.006858 secs): {Main Loop}
+   174,2024/01/13 06:54:33,[EVENT] Update population of 2 servers.
+   175,2024/01/13 06:54:39,EVAL(6.003138 secs): {Network I/O}
+   176,2024/01/13 06:54:39,EVAL(6.003701 secs): {Main Loop}
+   177,2024/01/13 06:54:39,[EVENT] Update population of 2 servers.
+   178,2024/01/13 06:54:45,EVAL(6.002617 secs): {Network I/O}
+   179,2024/01/13 06:54:45,EVAL(6.003414 secs): {Main Loop}
+   180,2024/01/13 06:54:45,[EVENT] Update population of 2 servers.
+   181,2024/01/13 06:54:51,EVAL(6.001252 secs): {Network I/O}
+   182,2024/01/13 06:54:51,EVAL(6.002229 secs): {Main Loop}
+   183,2024/01/13 06:54:51,[EVENT] Update population of 2 servers.
+   184,2024/01/13 06:54:57,EVAL(6.001367 secs): {Network I/O}
+   185,2024/01/13 06:54:57,EVAL(6.002391 secs): {Main Loop}
+   186,2024/01/13 06:54:57,[EVENT] Update population of 2 servers.
+   187,2024/01/13 06:55:03,EVAL(6.005536 secs): {Network I/O}
+   188,2024/01/13 06:55:03,EVAL(6.006509 secs): {Main Loop}
+   189,2024/01/13 06:55:03,[EVENT] Update population of 2 servers.
+   190,2024/01/13 06:55:09,EVAL(6.004282 secs): {Network I/O}
+   191,2024/01/13 06:55:09,EVAL(6.005081 secs): {Main Loop}
+   192,2024/01/13 06:55:09,[EVENT] Update population of 2 servers.
+   193,2024/01/13 06:55:15,EVAL(6.007243 secs): {Network I/O}
+   194,2024/01/13 06:55:15,EVAL(6.008593 secs): {Main Loop}
+   195,2024/01/13 06:55:15,[EVENT] Update population of 2 servers.
+   196,2024/01/13 06:55:21,EVAL(6.005163 secs): {Network I/O}
+   197,2024/01/13 06:55:21,EVAL(6.005991 secs): {Main Loop}
+   198,2024/01/13 06:55:21,[EVENT] Update population of 2 servers.
+   199,2024/01/13 06:55:27,EVAL(6.006154 secs): {Network I/O}
+   200,2024/01/13 06:55:27,EVAL(6.006958 secs): {Main Loop}
+   201,2024/01/13 06:55:27,[EVENT] Update population of 2 servers.
+   202,2024/01/13 06:55:33,EVAL(6.006634 secs): {Network I/O}
+   203,2024/01/13 06:55:33,EVAL(6.007435 secs): {Main Loop}
+   204,2024/01/13 06:55:33,[EVENT] Update population of 2 servers.
+   205,2024/01/13 06:55:39,EVAL(6.006114 secs): {Network I/O}
+   206,2024/01/13 06:55:39,EVAL(6.006581 secs): {Main Loop}
+   207,2024/01/13 06:55:39,[EVENT] Update population of 2 servers.
+   208,2024/01/13 06:55:45,EVAL(6.005539 secs): {Network I/O}
+   209,2024/01/13 06:55:45,EVAL(6.006011 secs): {Main Loop}
+   210,2024/01/13 06:55:45,[EVENT] Update population of 2 servers.
+   211,2024/01/13 06:55:51,EVAL(6.005958 secs): {Network I/O}
+   212,2024/01/13 06:55:51,EVAL(6.006425 secs): {Main Loop}
+   213,2024/01/13 06:55:51,[EVENT] Update population of 2 servers.
+   214,2024/01/13 06:55:57,EVAL(6.002360 secs): {Network I/O}
+   215,2024/01/13 06:55:57,EVAL(6.003577 secs): {Main Loop}
+   216,2024/01/13 06:55:57,[EVENT] Update population of 2 servers.
+   217,2024/01/13 06:56:03,EVAL(6.006685 secs): {Network I/O}
+   218,2024/01/13 06:56:03,EVAL(6.007994 secs): {Main Loop}
+   219,2024/01/13 06:56:03,[EVENT] Update population of 2 servers.
+   220,2024/01/13 06:56:09,EVAL(6.004014 secs): {Network I/O}
+   221,2024/01/13 06:56:09,EVAL(6.004553 secs): {Main Loop}
+   222,2024/01/13 06:56:09,[EVENT] Update population of 2 servers.
+   223,2024/01/13 06:56:15,EVAL(6.006260 secs): {Network I/O}
+   224,2024/01/13 06:56:15,EVAL(6.007212 secs): {Main Loop}
+   225,2024/01/13 06:56:15,[EVENT] Update population of 2 servers.
+   226,2024/01/13 06:56:21,EVAL(6.006454 secs): {Network I/O}
+   227,2024/01/13 06:56:21,EVAL(6.007504 secs): {Main Loop}
+   228,2024/01/13 06:56:21,[EVENT] Update population of 2 servers.
+   229,2024/01/13 06:56:27,EVAL(6.006254 secs): {Network I/O}
+   230,2024/01/13 06:56:27,EVAL(6.006738 secs): {Main Loop}
+   231,2024/01/13 06:56:27,[EVENT] Update population of 2 servers.
+   232,2024/01/13 06:56:33,EVAL(6.002411 secs): {Network I/O}
+   233,2024/01/13 06:56:33,EVAL(6.002957 secs): {Main Loop}
+   234,2024/01/13 06:56:33,[EVENT] Update population of 2 servers.
+   235,2024/01/13 06:56:39,EVAL(6.005357 secs): {Network I/O}
+   236,2024/01/13 06:56:39,EVAL(6.006709 secs): {Main Loop}
+   237,2024/01/13 06:56:39,[EVENT] Update population of 2 servers.
+   238,2024/01/13 06:56:45,EVAL(6.007409 secs): {Network I/O}
+   239,2024/01/13 06:56:45,EVAL(6.009135 secs): {Main Loop}
+   240,2024/01/13 06:56:45,[EVENT] Update population of 2 servers.
+   241,2024/01/13 06:56:51,EVAL(6.006476 secs): {Network I/O}
+   242,2024/01/13 06:56:51,EVAL(6.006904 secs): {Main Loop}
+   243,2024/01/13 06:56:51,[EVENT] Update population of 2 servers.
+   244,2024/01/13 06:56:57,EVAL(6.001123 secs): {Network I/O}
+   245,2024/01/13 06:56:57,EVAL(6.001626 secs): {Main Loop}
+   246,2024/01/13 06:56:57,[EVENT] Update population of 2 servers.
+   247,2024/01/13 06:57:03,EVAL(6.000707 secs): {Network I/O}
+   248,2024/01/13 06:57:03,EVAL(6.001539 secs): {Main Loop}
+   249,2024/01/13 06:57:03,[EVENT] Update population of 2 servers.
+   250,2024/01/13 06:57:09,EVAL(6.006596 secs): {Network I/O}
+   251,2024/01/13 06:57:09,EVAL(6.007022 secs): {Main Loop}
+   252,2024/01/13 06:57:09,[EVENT] Update population of 2 servers.
+   253,2024/01/13 06:57:16,EVAL(6.111534 secs): {Network I/O}
+   254,2024/01/13 06:57:16,EVAL(6.112056 secs): {Main Loop}
+   255,2024/01/13 06:57:16,[EVENT] Update population of 2 servers.
+   256,2024/01/13 06:57:22,EVAL(6.006353 secs): {Network I/O}
+   257,2024/01/13 06:57:22,EVAL(6.007216 secs): {Main Loop}
+   258,2024/01/13 06:57:22,[EVENT] Update population of 2 servers.
+   259,2024/01/13 06:57:28,EVAL(6.006453 secs): {Network I/O}
+   260,2024/01/13 06:57:28,EVAL(6.007517 secs): {Main Loop}
+   261,2024/01/13 06:57:28,[EVENT] Update population of 2 servers.
+   262,2024/01/13 06:57:34,EVAL(6.032480 secs): {Network I/O}
+   263,2024/01/13 06:57:34,EVAL(6.033092 secs): {Main Loop}
+   264,2024/01/13 06:57:34,[EVENT] Update population of 2 servers.
+   265,2024/01/13 06:57:40,EVAL(6.006161 secs): {Network I/O}
+   266,2024/01/13 06:57:40,EVAL(6.006787 secs): {Main Loop}
+   267,2024/01/13 06:57:40,[EVENT] Update population of 2 servers.
+   268,2024/01/13 06:57:46,EVAL(6.006365 secs): {Network I/O}
+   269,2024/01/13 06:57:46,EVAL(6.007370 secs): {Main Loop}
+   270,2024/01/13 06:57:46,[EVENT] Update population of 2 servers.
+   271,2024/01/13 06:57:52,EVAL(6.003671 secs): {Network I/O}
+   272,2024/01/13 06:57:52,EVAL(6.004694 secs): {Main Loop}
+   273,2024/01/13 06:57:52,[EVENT] Update population of 2 servers.
+   274,2024/01/13 06:57:58,EVAL(6.005645 secs): {Network I/O}
+   275,2024/01/13 06:57:58,EVAL(6.006693 secs): {Main Loop}
+   276,2024/01/13 06:57:58,[EVENT] Update population of 2 servers.

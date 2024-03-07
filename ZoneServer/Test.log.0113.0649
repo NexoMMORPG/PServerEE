@@ -1,0 +1,211 @@
+     1,2024/01/13 06:49:41,NAT:false     2,2024/01/13 06:49:41,UseUDT:false     3,2024/01/13 06:49:41,[ZoneServerDB.cc:50],Connected to database [127.0.0.1].
+  5449,2024/01/13 06:49:42,Service OK
+  5451,2024/01/13 06:49:42,Service OK
+  5454,2024/01/13 06:49:42,Service OK
+  5456,2024/01/13 06:49:43,RSA size(n) = 256 size(e) = 2
+  5457,2024/01/13 06:49:43,RSA size(n) = 256 size(e) = 2
+  5458,2024/01/13 06:49:43,Server is rolling on TCP 192.168.200.100:10166.
+  5459,2024/01/13 06:49:43,Server is rolling on TCP 192.168.200.100:10465.
+  5460,2024/01/13 06:49:43,Server is rolling on TCP 127.0.0.1:20205.
+  5461,2024/01/13 06:49:43,Connect to 127.0.0.1<0xD266290:37>:2067.
+  5462,2024/01/13 06:49:43,Connect to 127.0.0.1<0xD278968:38>:5712.
+  5463,2024/01/13 06:49:43,Connect to 127.0.0.1<0xD2AE1F0:39>:7654.
+ 16552,2024/01/13 06:49:54,[CPositionData:40370338] is duplicate 0x11138b40, 0x11138cd8 will be deleted
+ 16553,2024/01/13 06:49:54,[CPositionData:43384994] is duplicate 0x1113afd0, 0x1113b168 will be deleted
+ 18683,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18684,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18685,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18686,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18687,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18688,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18689,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18690,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18691,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18692,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18693,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18694,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18695,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18696,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18697,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18698,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18699,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18700,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18701,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18702,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18703,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18704,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18705,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18706,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18707,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18708,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18709,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18710,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18711,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18712,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18713,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18714,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18715,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18716,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18717,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18718,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18719,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18720,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18721,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18722,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18723,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18724,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18725,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18726,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18727,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18728,2024/01/13 06:49:54,[Gateway:14745599] is duplicate 0x15549be0, 0x15549d18 will be deleted
+ 18823,2024/01/13 06:49:54,[Gateway:19726347] is duplicate 0x15555140, 0x1554cdd0 will be deleted
+ 19555,2024/01/13 06:49:54,[Gateway:42074235] is duplicate 0x17948fb0, 0x179491e0 will be deleted
+ 59404,2024/01/13 06:50:00,TestMissionList!!-[0 1 9 8], [1009][1][0]
+ 59405,2024/01/13 06:50:00,TestMissionList!!-[0 1 9 8], [1009][2][1]
+ 59406,2024/01/13 06:50:00,TestMissionList!!-[0 1 9 8], [1009][512][9]
+ 59407,2024/01/13 06:50:00,TestMissionList!!-[0 1 9 8], [1009][256][8]
+ 59408,2024/01/13 06:50:00,TestMissionList!!-[2   ], [1541][4][2]
+ 59409,2024/01/13 06:50:00,TestMissionList!!-[4   ], [1625][16][4]
+ 59410,2024/01/13 06:50:00,TestMissionList!!-[6   ], [1713][64][6]
+ 59411,2024/01/13 06:50:00,TestMissionList!!-[2   ], [2129][4][2]
+ 59412,2024/01/13 06:50:00,TestMissionList!!-[4   ], [2130][16][4]
+ 59413,2024/01/13 06:50:00,TestMissionList!!-[6   ], [2131][64][6]
+ 59414,2024/01/13 06:50:00,TestMissionList!!-[2   ], [2886][4][2]
+ 59415,2024/01/13 06:50:00,TestMissionList!!-[4   ], [2887][16][4]
+ 59416,2024/01/13 06:50:00,TestMissionList!!-[6   ], [2888][64][6]
+ 59449,2024/01/13 06:50:00,[EventNodeBornEvent] Event[252] Get Random[13] 59450,2024/01/13 06:50:00,[EventNodeBornEvent] Event[253] Get Random[5] 59451,2024/01/13 06:50:00,[EventNodeBornEvent] Event[254] Get Random[30] 59452,2024/01/13 06:50:00,[EventNodeBornEvent] Event[255] Get Random[9] 59453,2024/01/13 06:50:00,[EventNodeBornEvent] Event[256] Get Random[15] 59454,2024/01/13 06:50:00,[EventNodeBornEvent] Event[257] Get Random[40] 59455,2024/01/13 06:50:00,Add New Epoll 34
+ 59456,2024/01/13 06:50:00,Add New Epoll 35
+ 59457,2024/01/13 06:50:00,Add New Epoll 36
+ 59458,2024/01/13 06:50:00,Add New Epoll 37
+ 59459,2024/01/13 06:50:00,Add New Epoll 38
+ 59460,2024/01/13 06:50:00,Add New Epoll 39
+ 59634,2024/01/13 06:50:02,EVAL(1.704353 secs): {IMEvent [-2:PN5lapis27CNE_ZMis_ZoneServerReportIDE]}
+ 59635,2024/01/13 06:50:02,EVAL(1.704373 secs): {Event Queue Dispatch}
+ 59636,2024/01/13 06:50:02,EVAL(1.716031 secs): {Main Loop}
+ 59639,2024/01/13 06:50:02,[NE_MW_WorldTextCommand.cc:12],Mission CNE_MW_WorldTextCommand Execute: Start InitInGameLotterySwitch ingame_lottery_switch = 1
+ 59640,2024/01/13 06:50:02,[NE_MW_WorldTextCommand.cc:12],Mission CNE_MW_WorldTextCommand Execute: Start InitDiamondLotterySwitch diamond_lottery_switch = 1
+ 59641,2024/01/13 06:50:02,[NE_MW_WorldTextCommand.cc:12],Mission CNE_MW_WorldTextCommand Execute: Start UpdateStarWaySwitch SwitchStatus = 1
+ 59642,2024/01/13 06:50:02,[NE_MW_WorldTextCommand.cc:12],Mission CNE_MW_WorldTextCommand Execute: Start DailyAwardState open = 1 show = 1 begin_date = 0
+ 80370,2024/01/13 06:50:04,EVAL(1.065997 secs): {Event Queue Dispatch}
+ 80371,2024/01/13 06:50:04,EVAL(1.066299 secs): {Main Loop}
+169078,2024/01/13 06:50:29,IControlObj[0x0x1d827850] deleted.
+169100,2024/01/13 06:50:34,IControlObj[0x0x1d848198] deleted.
+169105,2024/01/13 06:50:39,IControlObj[0x0x1d8732c0] deleted.
+169106,2024/01/13 06:50:39,IControlObj[0x0x1d873b40] deleted.
+169112,2024/01/13 06:50:44,IControlObj[0x0x1d875968] deleted.
+169113,2024/01/13 06:50:44,IControlObj[0x0x1d8792b0] deleted.
+169123,2024/01/13 06:50:54,IControlObj[0x0x1d881790] deleted.
+169124,2024/01/13 06:50:54,IControlObj[0x0x1d881ed0] deleted.
+169127,2024/01/13 06:50:59,IControlObj[0x0x1d886990] deleted.
+169141,2024/01/13 06:51:04,IControlObj[0x0x1d887fb8] deleted.
+169146,2024/01/13 06:51:09,IControlObj[0x0x1d8792b0] deleted.
+169152,2024/01/13 06:51:14,IControlObj[0x0x1d888b28] deleted.
+169153,2024/01/13 06:51:14,IControlObj[0x0x1d8892d0] deleted.
+169158,2024/01/13 06:51:19,IControlObj[0x0x1d881790] deleted.
+169161,2024/01/13 06:51:24,IControlObj[0x0x1d88d0f0] deleted.
+169162,2024/01/13 06:51:29,IControlObj[0x0x1d887fb8] deleted.
+169163,2024/01/13 06:51:29,IControlObj[0x0x1d88e9c0] deleted.
+169175,2024/01/13 06:51:34,IControlObj[0x0x1d88f2a0] deleted.
+169176,2024/01/13 06:51:34,IControlObj[0x0x1d88f9e0] deleted.
+169181,2024/01/13 06:51:39,IControlObj[0x0x1d888b28] deleted.
+169182,2024/01/13 06:51:39,IControlObj[0x0x1d889318] deleted.
+169187,2024/01/13 06:51:44,IControlObj[0x0x1d8901d0] deleted.
+169190,2024/01/13 06:51:54,IControlObj[0x0x1d892300] deleted.
+169193,2024/01/13 06:51:59,IControlObj[0x0x1d88f2a0] deleted.
+169194,2024/01/13 06:51:59,IControlObj[0x0x1d88f918] deleted.
+169201,2024/01/13 06:52:02,IControlObj[0x0x1d611400] deleted.
+169209,2024/01/13 06:52:04,IControlObj[0x0x1d888c00] deleted.
+169210,2024/01/13 06:52:04,IControlObj[0x0x1d889340] deleted.
+169213,2024/01/13 06:52:09,IControlObj[0x0x1d8901d0] deleted.
+169220,2024/01/13 06:52:19,IControlObj[0x0x1d892420] deleted.
+169223,2024/01/13 06:52:24,IControlObj[0x0x1d895ab8] deleted.
+169224,2024/01/13 06:52:24,IControlObj[0x0x1d896378] deleted.
+169227,2024/01/13 06:52:29,IControlObj[0x0x1d888c30] deleted.
+169234,2024/01/13 06:52:34,IControlObj[0x0x1d8901d0] deleted.
+169237,2024/01/13 06:52:39,IControlObj[0x0x1d8895b0] deleted.
+169238,2024/01/13 06:52:39,IControlObj[0x0x1d8975e8] deleted.
+169241,2024/01/13 06:52:44,IControlObj[0x0x1d892420] deleted.
+169244,2024/01/13 06:52:49,IControlObj[0x0x1d896378] deleted.
+169253,2024/01/13 06:52:59,IControlObj[0x0x1d899dd0] deleted.
+169261,2024/01/13 06:53:04,IControlObj[0x0x1d8895b0] deleted.
+169262,2024/01/13 06:53:09,IControlObj[0x0x1d892408] deleted.
+169265,2024/01/13 06:53:14,IControlObj[0x0x1d897768] deleted.
+169266,2024/01/13 06:53:14,IControlObj[0x0x1d896378] deleted.
+169271,2024/01/13 06:53:19,IControlObj[0x0x1d89a2c8] deleted.
+169272,2024/01/13 06:53:19,IControlObj[0x0x1d89aa08] deleted.
+169277,2024/01/13 06:53:24,IControlObj[0x0x1d89c4a8] deleted.
+169278,2024/01/13 06:53:24,IControlObj[0x0x1d89cbe8] deleted.
+169287,2024/01/13 06:53:34,IControlObj[0x0x1d889610] deleted.
+169290,2024/01/13 06:53:39,IControlObj[0x0x1d896378] deleted.
+169291,2024/01/13 06:53:39,IControlObj[0x0x1d897678] deleted.
+169296,2024/01/13 06:53:44,IControlObj[0x0x1d89a2c8] deleted.
+169297,2024/01/13 06:53:44,IControlObj[0x0x1d89a848] deleted.
+169302,2024/01/13 06:53:49,IControlObj[0x0x1d89c4a8] deleted.
+169307,2024/01/13 06:53:54,IControlObj[0x0x1d89d580] deleted.
+169308,2024/01/13 06:53:54,IControlObj[0x0x1d89dcc0] deleted.
+169311,2024/01/13 06:53:59,IControlObj[0x0x1d889610] deleted.
+169316,2024/01/13 06:54:04,IControlObj[0x0x1d897678] deleted.
+169317,2024/01/13 06:54:04,IControlObj[0x0x1d896378] deleted.
+169322,2024/01/13 06:54:09,IControlObj[0x0x1d89a2c8] deleted.
+169323,2024/01/13 06:54:09,IControlObj[0x0x1d89a848] deleted.
+169328,2024/01/13 06:54:14,IControlObj[0x0x1d611400] deleted.
+169329,2024/01/13 06:54:14,IControlObj[0x0x1d89c4a8] deleted.
+169330,2024/01/13 06:54:14,IControlObj[0x0x1d89e510] deleted.
+169335,2024/01/13 06:54:19,IControlObj[0x0x1d89d670] deleted.
+169336,2024/01/13 06:54:24,IControlObj[0x0x1d889610] deleted.
+169337,2024/01/13 06:54:24,IControlObj[0x0x1d89ddb0] deleted.
+169340,2024/01/13 06:54:29,IControlObj[0x0x1d897678] deleted.
+169341,2024/01/13 06:54:29,IControlObj[0x0x1d8964e0] deleted.
+169344,2024/01/13 06:54:34,IControlObj[0x0x1d89a2c8] deleted.
+169345,2024/01/13 06:54:34,IControlObj[0x0x1d89a808] deleted.
+169350,2024/01/13 06:54:39,IControlObj[0x0x1d611400] deleted.
+169355,2024/01/13 06:54:49,IControlObj[0x0x1d8895b0] deleted.
+169358,2024/01/13 06:54:54,IControlObj[0x0x1d897660] deleted.
+169361,2024/01/13 06:54:59,IControlObj[0x0x1d89a2c8] deleted.
+169362,2024/01/13 06:54:59,IControlObj[0x0x1d89a808] deleted.
+169367,2024/01/13 06:55:04,IControlObj[0x0x1d611400] deleted.
+169368,2024/01/13 06:55:04,IControlObj[0x0x1d896378] deleted.
+169371,2024/01/13 06:55:14,IControlObj[0x0x1d8895b0] deleted.
+169376,2024/01/13 06:55:19,IControlObj[0x0x1d897660] deleted.
+169379,2024/01/13 06:55:24,IControlObj[0x0x1d89a2c8] deleted.
+169386,2024/01/13 06:55:34,IControlObj[0x0x1d611400] deleted.
+169389,2024/01/13 06:55:39,IControlObj[0x0x1d8895b0] deleted.
+169390,2024/01/13 06:55:39,IControlObj[0x0x1d8962d0] deleted.
+169395,2024/01/13 06:55:44,IControlObj[0x0x1d897660] deleted.
+169400,2024/01/13 06:55:49,IControlObj[0x0x1d89a2c8] deleted.
+169401,2024/01/13 06:55:49,IControlObj[0x0x1d89d580] deleted.
+169404,2024/01/13 06:55:54,IControlObj[0x0x1d89da78] deleted.
+169407,2024/01/13 06:55:59,IControlObj[0x0x1d89e200] deleted.
+169411,2024/01/13 06:56:04,IControlObj[0x0x1d8962d0] deleted.
+169412,2024/01/13 06:56:04,IControlObj[0x0x1d889580] deleted.
+169413,2024/01/13 06:56:09,IControlObj[0x0x1d897660] deleted.
+169414,2024/01/13 06:56:09,IControlObj[0x0x1d89e6f8] deleted.
+169417,2024/01/13 06:56:14,IControlObj[0x0x1d89d580] deleted.
+169422,2024/01/13 06:56:19,IControlObj[0x0x1d89a2c8] deleted.
+169425,2024/01/13 06:56:24,IControlObj[0x0x1d89df70] deleted.
+169432,2024/01/13 06:56:34,IControlObj[0x0x1d8962d0] deleted.
+169435,2024/01/13 06:56:39,IControlObj[0x0x1d89d580] deleted.
+169436,2024/01/13 06:56:39,IControlObj[0x0x1d889538] deleted.
+169439,2024/01/13 06:56:44,IControlObj[0x0x1d89a2c8] deleted.
+169440,2024/01/13 06:56:49,IControlObj[0x0x1d897580] deleted.
+169441,2024/01/13 06:56:49,IControlObj[0x0x1d89df70] deleted.
+169446,2024/01/13 06:56:54,IControlObj[0x0x1d89e6f8] deleted.
+169451,2024/01/13 06:56:59,IControlObj[0x0x1d8962d0] deleted.
+169454,2024/01/13 06:57:04,IControlObj[0x0x1d89d580] deleted.
+169461,2024/01/13 06:57:14,IControlObj[0x0x1d89a2c8] deleted.
+169462,2024/01/13 06:57:14,IControlObj[0x0x1d889538] deleted.
+169465,2024/01/13 06:57:19,IControlObj[0x0x1d897568] deleted.
+169466,2024/01/13 06:57:19,IControlObj[0x0x1d89df70] deleted.
+169471,2024/01/13 06:57:24,IControlObj[0x0x1d8962d0] deleted.
+169476,2024/01/13 06:57:29,IControlObj[0x0x1d89d580] deleted.
+169479,2024/01/13 06:57:34,IControlObj[0x0x1d89e578] deleted.
+169480,2024/01/13 06:57:34,IControlObj[0x0x1d89ecb8] deleted.
+169483,2024/01/13 06:57:39,IControlObj[0x0x1d89a2c8] deleted.
+169486,2024/01/13 06:57:44,IControlObj[0x0x1d89df70] deleted.
+169487,2024/01/13 06:57:44,IControlObj[0x0x1d897568] deleted.
+169490,2024/01/13 06:57:49,IControlObj[0x0x1d8962d0] deleted.
+169491,2024/01/13 06:57:49,IControlObj[0x0x1d89f3f8] deleted.
+169496,2024/01/13 06:57:54,IControlObj[0x0x1d89d580] deleted.
+169501,2024/01/13 06:57:59,IControlObj[0x0x1d89e578] deleted.
+169504,2024/01/13 06:58:04,IControlObj[0x0x1d89a2c8] deleted.
+169505,2024/01/13 06:58:09,IControlObj[0x0x1d897568] deleted.

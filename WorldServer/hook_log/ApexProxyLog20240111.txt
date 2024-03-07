@@ -1,0 +1,150 @@
+Pid:3688>  2024-01-11 00:22:26> BasePath: /root/server_eden/WorldServer/
+Pid:3688>  2024-01-11 00:22:26> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3688>  2024-01-11 00:22:26> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3688>  2024-01-11 00:22:26> In sh_load_start 2
+Pid:3688>  2024-01-11 00:22:26>GameServerThunk No Load In Config File
+Pid:1118>  2024-01-11 02:29:17> BasePath: /root/server_eden/WorldServer/
+Pid:1118>  2024-01-11 02:29:17> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1118>  2024-01-11 02:29:17> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1118>  2024-01-11 02:29:17> In sh_load_start 2
+Pid:1118>  2024-01-11 02:29:17>GameServerThunk No Load In Config File
+Pid:1378>  2024-01-11 02:54:25> BasePath: /root/server_eden/WorldServer/
+Pid:1378>  2024-01-11 02:54:25> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1378>  2024-01-11 02:54:25> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1378>  2024-01-11 02:54:25> In sh_load_start 2
+Pid:1378>  2024-01-11 02:54:25>GameServerThunk No Load In Config File
+Pid:1590>  2024-01-11 03:11:27> BasePath: /root/server_eden/WorldServer/
+Pid:1590>  2024-01-11 03:11:27> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1590>  2024-01-11 03:11:27> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1590>  2024-01-11 03:11:27> In sh_load_start 2
+Pid:1590>  2024-01-11 03:11:27>GameServerThunk No Load In Config File
+Pid:1834>  2024-01-11 03:33:22> BasePath: /root/server_eden/WorldServer/
+Pid:1834>  2024-01-11 03:33:22> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1834>  2024-01-11 03:33:22> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1834>  2024-01-11 03:33:22> In sh_load_start 2
+Pid:1834>  2024-01-11 03:33:22>GameServerThunk No Load In Config File
+Pid:3251>  2024-01-11 08:13:57> BasePath: /root/server_eden/WorldServer/
+Pid:3251>  2024-01-11 08:13:57> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3251>  2024-01-11 08:13:57> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3251>  2024-01-11 08:13:57> In sh_load_start 2
+Pid:3251>  2024-01-11 08:13:57>GameServerThunk No Load In Config File
+Pid:3584>  2024-01-11 09:03:19> BasePath: /root/server_eden/WorldServer/
+Pid:3584>  2024-01-11 09:03:19> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3584>  2024-01-11 09:03:19> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3584>  2024-01-11 09:03:19> In sh_load_start 2
+Pid:3584>  2024-01-11 09:03:19>GameServerThunk No Load In Config File
+Pid:3807>  2024-01-11 09:17:43> BasePath: /root/server_eden/WorldServer/
+Pid:3807>  2024-01-11 09:17:43> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3807>  2024-01-11 09:17:43> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3807>  2024-01-11 09:17:43> In sh_load_start 2
+Pid:3807>  2024-01-11 09:17:43>GameServerThunk No Load In Config File
+Pid:4005>  2024-01-11 09:34:21> BasePath: /root/server_eden/WorldServer/
+Pid:4005>  2024-01-11 09:34:21> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:4005>  2024-01-11 09:34:21> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:4005>  2024-01-11 09:34:21> In sh_load_start 2
+Pid:4005>  2024-01-11 09:34:21>GameServerThunk No Load In Config File
+Pid:1105>  2024-01-11 19:09:22> BasePath: /root/server_eden/WorldServer/
+Pid:1105>  2024-01-11 19:09:22> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1105>  2024-01-11 19:09:22> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1105>  2024-01-11 19:09:23> In sh_load_start 2
+Pid:1105>  2024-01-11 19:09:22>GameServerThunk No Load In Config File
+Pid:1643>  2024-01-11 20:35:43> BasePath: /root/server_eden/WorldServer/
+Pid:1643>  2024-01-11 20:35:43> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1643>  2024-01-11 20:35:43> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1643>  2024-01-11 20:35:43> In sh_load_start 2
+Pid:1643>  2024-01-11 20:35:43>GameServerThunk No Load In Config File
+Pid:1801>  2024-01-11 20:43:21> BasePath: /root/server_eden/WorldServer/
+Pid:1801>  2024-01-11 20:43:21> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1801>  2024-01-11 20:43:21> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1801>  2024-01-11 20:43:21> In sh_load_start 2
+Pid:1801>  2024-01-11 20:43:21>GameServerThunk No Load In Config File
+Pid:1941>  2024-01-11 20:46:32> BasePath: /root/server_eden/WorldServer/
+Pid:1941>  2024-01-11 20:46:32> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:1941>  2024-01-11 20:46:32> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:1941>  2024-01-11 20:46:32> In sh_load_start 2
+Pid:1941>  2024-01-11 20:46:32>GameServerThunk No Load In Config File
+Pid:2079>  2024-01-11 20:49:00> BasePath: /root/server_eden/WorldServer/
+Pid:2079>  2024-01-11 20:49:00> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:2079>  2024-01-11 20:49:00> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:2079>  2024-01-11 20:49:00> In sh_load_start 2
+Pid:2079>  2024-01-11 20:49:00>GameServerThunk No Load In Config File
+Pid:2227>  2024-01-11 20:54:01> BasePath: /root/server_eden/WorldServer/
+Pid:2227>  2024-01-11 20:54:01> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:2227>  2024-01-11 20:54:01> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:2227>  2024-01-11 20:54:01> In sh_load_start 2
+Pid:2227>  2024-01-11 20:54:01>GameServerThunk No Load In Config File
+Pid:2401>  2024-01-11 20:57:10> BasePath: /root/server_eden/WorldServer/
+Pid:2401>  2024-01-11 20:57:10> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:2401>  2024-01-11 20:57:10> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:2401>  2024-01-11 20:57:10> In sh_load_start 2
+Pid:2401>  2024-01-11 20:57:10>GameServerThunk No Load In Config File
+Pid:2540>  2024-01-11 20:59:58> BasePath: /root/server_eden/WorldServer/
+Pid:2540>  2024-01-11 20:59:58> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:2540>  2024-01-11 20:59:58> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:2540>  2024-01-11 20:59:58> In sh_load_start 2
+Pid:2540>  2024-01-11 20:59:58>GameServerThunk No Load In Config File
+Pid:2721>  2024-01-11 21:01:55> BasePath: /root/server_eden/WorldServer/
+Pid:2721>  2024-01-11 21:01:55> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:2721>  2024-01-11 21:01:55> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:2721>  2024-01-11 21:01:55> In sh_load_start 2
+Pid:2721>  2024-01-11 21:01:55>GameServerThunk No Load In Config File
+Pid:2878>  2024-01-11 21:08:52> BasePath: /root/server_eden/WorldServer/
+Pid:2878>  2024-01-11 21:08:52> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:2878>  2024-01-11 21:08:52> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:2878>  2024-01-11 21:08:52> In sh_load_start 2
+Pid:2878>  2024-01-11 21:08:52>GameServerThunk No Load In Config File
+Pid:3031>  2024-01-11 21:14:47> BasePath: /root/server_eden/WorldServer/
+Pid:3031>  2024-01-11 21:14:47> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3031>  2024-01-11 21:14:47> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3031>  2024-01-11 21:14:47> In sh_load_start 2
+Pid:3031>  2024-01-11 21:14:47>GameServerThunk No Load In Config File
+Pid:3267>  2024-01-11 21:19:05> BasePath: /root/server_eden/WorldServer/
+Pid:3267>  2024-01-11 21:19:05> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3267>  2024-01-11 21:19:05> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3267>  2024-01-11 21:19:05> In sh_load_start 2
+Pid:3267>  2024-01-11 21:19:05>GameServerThunk No Load In Config File
+Pid:3446>  2024-01-11 21:21:08> BasePath: /root/server_eden/WorldServer/
+Pid:3446>  2024-01-11 21:21:08> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3446>  2024-01-11 21:21:08> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3446>  2024-01-11 21:21:08> In sh_load_start 2
+Pid:3446>  2024-01-11 21:21:08>GameServerThunk No Load In Config File
+Pid:3766>  2024-01-11 21:24:50> BasePath: /root/server_eden/WorldServer/
+Pid:3766>  2024-01-11 21:24:50> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3766>  2024-01-11 21:24:50> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3766>  2024-01-11 21:24:50> In sh_load_start 2
+Pid:3766>  2024-01-11 21:24:50>GameServerThunk No Load In Config File
+Pid:3902>  2024-01-11 21:27:03> BasePath: /root/server_eden/WorldServer/
+Pid:3902>  2024-01-11 21:27:03> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:3902>  2024-01-11 21:27:03> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:3902>  2024-01-11 21:27:03> In sh_load_start 2
+Pid:3902>  2024-01-11 21:27:03>GameServerThunk No Load In Config File
+Pid:4060>  2024-01-11 21:34:15> BasePath: /root/server_eden/WorldServer/
+Pid:4060>  2024-01-11 21:34:15> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:4060>  2024-01-11 21:34:15> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:4060>  2024-01-11 21:34:15> In sh_load_start 2
+Pid:4060>  2024-01-11 21:34:15>GameServerThunk No Load In Config File
+Pid:4214>  2024-01-11 21:36:29> BasePath: /root/server_eden/WorldServer/
+Pid:4214>  2024-01-11 21:36:29> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:4214>  2024-01-11 21:36:29> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:4214>  2024-01-11 21:36:29> In sh_load_start 2
+Pid:4214>  2024-01-11 21:36:29>GameServerThunk No Load In Config File
+Pid:4381>  2024-01-11 21:38:01> BasePath: /root/server_eden/WorldServer/
+Pid:4381>  2024-01-11 21:38:01> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:4381>  2024-01-11 21:38:01> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:4381>  2024-01-11 21:38:01> In sh_load_start 2
+Pid:4381>  2024-01-11 21:38:01>GameServerThunk No Load In Config File
+Pid:4518>  2024-01-11 21:40:22> BasePath: /root/server_eden/WorldServer/
+Pid:4518>  2024-01-11 21:40:22> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:4518>  2024-01-11 21:40:22> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:4518>  2024-01-11 21:40:22> In sh_load_start 2
+Pid:4518>  2024-01-11 21:40:22>GameServerThunk No Load In Config File
+Pid:4655>  2024-01-11 21:42:47> BasePath: /root/server_eden/WorldServer/
+Pid:4655>  2024-01-11 21:42:47> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:4655>  2024-01-11 21:42:47> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:4655>  2024-01-11 21:42:47> In sh_load_start 2
+Pid:4655>  2024-01-11 21:42:47>GameServerThunk No Load In Config File
+Pid:5214>  2024-01-11 23:14:34> BasePath: /root/server_eden/WorldServer/
+Pid:5214>  2024-01-11 23:14:34> In sh_load_start: pfSend= 80496a0,pfRec=8260650    2010/08/26
+Pid:5214>  2024-01-11 23:14:34> g_nNum:1,File: /root/server_eden/WorldServer/WorldServer
+Pid:5214>  2024-01-11 23:14:34> In sh_load_start 2
+Pid:5214>  2024-01-11 23:14:34>GameServerThunk No Load In Config File
