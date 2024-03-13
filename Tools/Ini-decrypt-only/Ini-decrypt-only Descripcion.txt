@@ -1,0 +1,8 @@
+-----------
+Me olvide de publicar la herramienta aqui asi que la publico ahora  
+
+Esta herramienta desencriptar archivos ini cuando están protegidos para no permitir la edición.
+
+Arrastre y suelte el archivo ini en el programa (en la ventana del explorador) (como este https://i.imgur.com/gsfroLq.png) y boom, el archivo ahora descifrado
+
+(herramienta no por poulet)

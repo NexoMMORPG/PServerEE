@@ -1,0 +1,4 @@
+Pequeña herramienta que he creado para hacer mas facil el manejo del altar
+Que permite guardarlo y editarlo , para que muestre la imagen pide estar en la misma carpeta del game.bin con un cliente descomprimido
+hay algunos altares del servidor , se leen con esta herramienta 
+El altar diamante nunca fue terminado ya que era una herramienta beta y mucho otro trabajo para manejar

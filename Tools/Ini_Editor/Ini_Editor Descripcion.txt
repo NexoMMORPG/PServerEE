@@ -1,0 +1,5 @@
+Editar Ini de Eden Eternel es complicado con notepad++ ?
+¡Tengo la solución para usted !
+¡Este es un "exel" como herramienta para abrir ini !
+¡Usted puede editar en masa y reemplazar con esta herramienta directamente en col !
+Incluso puede cambiar el nombre de colonum con el archivo .col en la carpeta "header". (creado después de la primera apertura del archivo)

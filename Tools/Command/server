@@ -1,0 +1,98 @@
+#!/usr/bin/env bash
+
+export LC_ALL=C
+
+B="[40;36m"
+W="[40;37m"
+G="[40;32m"
+R="[40;31m"
+Y="[40;33m"
+P="[40;35m"
+
+
+case "$1" in 
+
+on)
+  
+  echo $P"LIMPANDO LOGS!"$W
+  
+  cat /dev/null > /var/log/syslog
+  cat /dev/null > /var/log/wtmp 
+  cat /dev/null > /var/log/maillog
+  cat /dev/null > /var/log/messages
+  cat /dev/null > /var/log/openwebmail.log
+  cat /dev/null > /var/log/maillog
+  cat /dev/null > /var/log/secure
+
+  find . -name "*.log.*" -type f -exec rm -rf {} \; > /dev/null 2>&1
+
+  echo $G"LIGANDO O SERVIDOR!"$W
+  echo -ne $B'TicketServer OK      \r'$W
+  sleep 1
+  cd /root/PServerEE/TicketServer/
+  chmod 777 *
+  ./TicketServer -p 2067 &>/dev/null &
+  echo -ne $B'GatewayServer OK     \r'$W
+  sleep 5
+  cd /root/PServerEE/GatewayServer/
+  chmod 777 *
+  ./GatewayServer &>/dev/null &
+  echo -ne $B'LoginServer OK       \r'$W
+  sleep 5
+  cd /root/PServerEE/LoginServer/
+  chmod 777 *
+  ./LoginServer &>/dev/null &
+  echo -ne $B'MissionServer OK     \r'$W
+  sleep 5
+  cd /root/PServerEE/MissionServer/
+  chmod 777 *
+  ./MissionServer &>/dev/null &
+  echo -ne $B'WorldServer OK        \r'$W
+  sleep 5
+  cd /root/PServerEE/WorldServer/
+  chmod 777 *
+  ./WorldServer &>/dev/null &
+  echo -ne $B'ZoneServer OK        \r'$W
+  sleep 5
+  cd /root/PServerEE/ZoneServer/
+  chmod 777 *
+  ./ZoneServer &>/dev/null &
+  
+  freemem=$(free -m | grep "Mem:" | awk '{print $4}')
+  echo $B"Servidor Ligado ${Y}RAM Livre: ${freemem} MB"${W}
+
+  ;;
+off)
+  echo $R"DESLIGANDO O SERVIDOR!"$W
+  killall -9 LoginServer
+  killall -9 GatewayServer
+  killall -9 TicketServer
+  killall -9 MissionServer
+  killall -9 WorldServer
+  killall -9 ZoneServer
+  sleep 1
+  
+  freemem=$(free -m | grep "Mem:" | awk '{print $4}')
+  echo $B"Servidor Desligado ${Y}RAM Livre: ${freemem} MB"${W}
+
+  ;;
+restart)
+  ./server off
+  sleep 5
+  ./server on
+  
+  ;;
+status)
+  freemem=$(free -m | grep "Mem:" | awk '{print $4}')
+  echo $Y"Memoria Livre: ${freemem} MB"${W}
+
+  ;;
+*)
+  echo "Usage: $0 {on|off|restart|status}"
+  echo "on - Liga o Servidor"
+  echo "off - Desliga o Servidor"
+  echo "restart - Reinicia o Servidor"
+  echo "status - Mostra Memoria Disponivel"
+  exit 1
+  ;;
+esac

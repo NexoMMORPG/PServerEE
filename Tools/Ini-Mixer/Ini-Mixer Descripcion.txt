@@ -1,0 +1,4 @@
+Usted ha creado algunos nuevos elementos en su servidor de prueba 1 y algunos otros en la prueba 2
+Pero has editado un montón de archivos, ¿cómo puedo mezclarlos fácilmente?
+Esta herramienta está hecha para usted.
+Esta herramienta permite tomar un dato principal y mezclarlo con los datos que faltan de otros datos, lo que permite mezclar sus datos muy facilmente.

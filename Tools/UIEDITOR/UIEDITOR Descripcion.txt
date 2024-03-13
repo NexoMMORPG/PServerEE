@@ -1,0 +1,9 @@
+Es una herramienta de oficial (también es de opensource proyecto) 
+Me olvide de publicar antes
+
+¡Esta herramienta le permite editar la interfaz de usuario del juego sin poner la mano en el código!
+Edite CELayoutEditor.ini para que coincida con la ruta de su juego (default is C:\FNOnline\ )
+
+(Pero el cliente oficial ha hecho algunas modificaciones para evitar que la gente lo use, asi que tendras que editar tu UIData/looknfeel/DejaVu.looknfeel y UIData/schemes/DejaVu.scheme para que funcione. Usa tu cerebro y encontrarás fácilmente qué problema ponen en el archivo )
+
+Diviértete.
